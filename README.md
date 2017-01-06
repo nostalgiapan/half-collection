@@ -1,0 +1,2 @@
+# half-collection
+naive trying
